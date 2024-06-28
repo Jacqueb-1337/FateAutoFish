@@ -2,6 +2,8 @@
 # Auto Fishing for FATE by WildTangent
 
 A simple python script to automate fishing.
+##How to use:
+https://www.youtube.com/watch?v=QL5kxrQK4DI
 
 
 ## Build Requirements
